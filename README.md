@@ -17,7 +17,7 @@
 
 
 
-<img src="git/Home.png"/>
+<img src="https://github.com/ServerK001/HomeGamer/blob/main/git/Home.PNG"/>
 
 
 # Tecnologias 
