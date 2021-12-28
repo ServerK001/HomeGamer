@@ -1,0 +1,19 @@
+.cards{
+    background:linear-gradient(to left top, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8));
+    border-radius: 1rem;
+    margin: 1rem 0rem ;
+    padding:  0.5rem;
+    box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.212);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.progress {
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    width: 100px;
+    height: 100px;
+    border-radius: 1rem;
+    position: relative;
+    overflow: hidden;
+  }
