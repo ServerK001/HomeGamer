@@ -17,7 +17,7 @@
 
 
 
-<img src="./git/Home.png"/>
+<img src="git/Home.png"/>
 
 
 # Tecnologias 
